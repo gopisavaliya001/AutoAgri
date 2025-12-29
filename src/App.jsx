@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import { BrowserRouter as Router } from 'react-router-dom';
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import AppRoutes from './Routes'
 import ScrollToTop from './components/ScrollToTop'
 function App() {
